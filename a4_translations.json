@@ -1,0 +1,66 @@
+{
+  "a4_ru": {
+    "Status (Mild-Demetia)": "Статус (легкая деменция)",
+    "Status (Moderate-Dementia)": "Статус (умеренная деменция)",
+    "Status (Non-Dementia)": "Статус (отсутствие деменции)",
+    "Status (Mild-Demetia)": "Статус (легкая деменция)",
+    "Status (Moderate-Dementia)": "Статус (умеренная деменция)",
+    "Status (Non-Dementia)": "Статус (отсутствие деменции)"
+  },
+  "a4_spanish": {
+    "Status (Mild-Demetia)": "Estado (Demencia leve)",
+    "Status (Moderate-Dementia)": "Estado (Demencia moderada)",
+    "Status (Non-Dementia)": "Estado (Sin demencia)",
+    "Status (Mild-Demetia)": "Estado (Demencia leve)",
+    "Status (Moderate-Dementia)": "Estado (Demencia moderada)",
+    "Status (Non-Dementia)": "Estado (Sin demencia)"
+  },
+  "a4_thai": {
+    "Status (Mild-Demetia)": "สถานะ (ภาวะสมองเสื่อมเล็กน้อย)",
+    "Status (Moderate-Dementia)": "สถานะ (ภาวะสมองเสื่อมปานกลาง)",
+    "Status (Non-Dementia)": "สถานะ (ไม่เป็นภาวะสมองเสื่อม)",
+    "Status (Mild-Demetia)": "สถานะ (ภาวะสมองเสื่อมเล็กน้อย)",
+    "Status (Moderate-Dementia)": "สถานะ (ภาวะสมองเสื่อมปานกลาง)",
+    "Status (Non-Dementia)": "สถานะ (ไม่เป็นภาวะสมองเสื่อม)"
+  },
+  "a4_indo": {
+    "Status (Mild-Demetia)": "Status (Demensia Ringan)",
+    "Status (Moderate-Dementia)": "Status (Demensia Sedang)",
+    "Status (Non-Dementia)": "Status (Non-Demensia)",
+    "Status (Mild-Demetia)": "Status (Demensia Ringan)",
+    "Status (Moderate-Dementia)": "Status (Demensia Sedang)",
+    "Status (Non-Dementia)": "Status (Non-Demensia)"
+  },
+  "a4_malay": {
+    "Status (Mild-Demetia)": "Status (Demensia Ringan)",
+    "Status (Moderate-Dementia)": "Status (Demensia Sederhana)",
+    "Status (Non-Dementia)": "Status (Bukan Demensia)",
+    "Status (Mild-Demetia)": "Status (Demensia Ringan)",
+    "Status (Moderate-Dementia)": "Status (Demensia Sederhana)",
+    "Status (Non-Dementia)": "Status (Bukan Demensia)"
+  },
+  "a4_arabic": {
+    "Status (Mild-Demetia)": "الحالة (خرف خفيف)",
+    "Status (Moderate-Dementia)": "الحالة (خرف متوسط)",
+    "Status (Non-Dementia)": "الحالة (غير مصاب بالخرف)",
+    "Status (Mild-Demetia)": "الحالة (خرف خفيف)",
+    "Status (Moderate-Dementia)": "الحالة (خرف متوسط)",
+    "Status (Non-Dementia)": "الحالة (غير مصاب بالخرف)"
+  },
+  "a4_hindi": {
+    "Status (Mild-Demetia)": "स्थिति (हल्का-मनोभ्रंश)",
+    "Status (Moderate-Dementia)": "स्थिति (मध्यम-मनोभ्रंश)",
+    "Status (Non-Dementia)": "स्थिति (मनोभ्रंश नहीं)",
+    "Status (Mild-Demetia)": "स्थिति (हल्का-मनोभ्रंश)",
+    "Status (Moderate-Dementia)": "स्थिति (मध्यम-मनोभ्रंश)",
+    "Status (Non-Dementia)": "स्थिति (मनोभ्रंश नहीं)"
+  },
+  "a4_turkish": {
+    "Status (Mild-Demetia)": "Durum (Hafif Demans)",
+    "Status (Moderate-Dementia)": "Durum (Orta Derecede Demans)",
+    "Status (Non-Dementia)": "Durum (Demans Yok)",
+    "Status (Mild-Demetia)": "Durum (Hafif Demans)",
+    "Status (Moderate-Dementia)": "Durum (Orta Derecede Demans)",
+    "Status (Non-Dementia)": "Durum (Demans Yok)"
+  }
+}
